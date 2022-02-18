@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scritti/static/css/main.2b7487a7.css",
+    "main.js": "/scritti/static/js/main.89349c38.js",
+    "static/js/787.faa5a315.chunk.js": "/scritti/static/js/787.faa5a315.chunk.js",
+    "index.html": "/scritti/index.html",
+    "main.2b7487a7.css.map": "/scritti/static/css/main.2b7487a7.css.map",
+    "main.89349c38.js.map": "/scritti/static/js/main.89349c38.js.map",
+    "787.faa5a315.chunk.js.map": "/scritti/static/js/787.faa5a315.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7487a7.css",
+    "static/js/main.89349c38.js"
+  ]
+}
