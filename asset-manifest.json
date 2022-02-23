@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/scritti/static/css/main.2b7487a7.css",
-    "main.js": "/scritti/static/js/main.89349c38.js",
+    "main.css": "/scritti/static/css/main.ed3e39b8.css",
+    "main.js": "/scritti/static/js/main.6d1b0c01.js",
     "static/js/787.faa5a315.chunk.js": "/scritti/static/js/787.faa5a315.chunk.js",
+    "static/media/logoPLS.png": "/scritti/static/media/logoPLS.f744e48001cab7612b6c.png",
     "index.html": "/scritti/index.html",
-    "main.2b7487a7.css.map": "/scritti/static/css/main.2b7487a7.css.map",
-    "main.89349c38.js.map": "/scritti/static/js/main.89349c38.js.map",
+    "main.ed3e39b8.css.map": "/scritti/static/css/main.ed3e39b8.css.map",
+    "main.6d1b0c01.js.map": "/scritti/static/js/main.6d1b0c01.js.map",
     "787.faa5a315.chunk.js.map": "/scritti/static/js/787.faa5a315.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b7487a7.css",
-    "static/js/main.89349c38.js"
+    "static/css/main.ed3e39b8.css",
+    "static/js/main.6d1b0c01.js"
   ]
 }
